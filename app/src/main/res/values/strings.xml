@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MeChat</string>
+    <string name="welcome_to_mechat">Welcome_To_MeChat</string>
+    <string name="please_enter_your_mobile_number_you_will_get_a_sms_including_a_verification_code">Please enter your mobile number.You will get a SMS including a verification code.</string>
+    <string name="verify_number">Verify %s</string>
+    <string name="waiting_para">Waiting to automatically detect an SMS sent to %s Wrong Number?</string>
+    <string name="seconds_remaining">Seconds Remaining %d</string>
+    <string name="search">Search</string>
+    <string name="settings">settings</string>
+</resources>
